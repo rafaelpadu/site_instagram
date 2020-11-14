@@ -115,12 +115,12 @@ body{
 .appDownload:nth-child(1){
     height: 3rem;
     width: 10rem;
-    background-image: url(app_store.png);
+    background-image: url(img/app_store.png);
 }
 .appDownload:nth-child(2){
     height: 4rem;
     width: 10rem;
-    background-image: url(google_logo.png);
+    background-image: url(img/google_logo.png);
 }
 
 @media (max-width: 1024px){
